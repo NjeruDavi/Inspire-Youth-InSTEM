@@ -14,6 +14,7 @@ f_name = "David"
 s_name = "Njeru"
 full_name = f_name + s_name
 age = 25
-
+print("My name is" + full_name + "and I am" + str(age)+"years old")
+print("My name is{}and I am{}years old".format(full_name,age))
 print("Hello from Davi\n How are you\n I am fine")
 print("Hello from Davi/n How are you/n I am fine")
