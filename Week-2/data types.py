@@ -20,3 +20,4 @@ cube_z = z**3 # to cube a number
 number = 13
 print("square of number :",13**2 )
 print("cube of number :",13**3 )
+#COMPLEX DATA TYPES:lists , tuples ,dictionaries

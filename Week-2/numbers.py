@@ -2,7 +2,7 @@
 sum_num = 1
 numbers = []
 for number in numbers:
-    number = int(input("Enter the  first 10 numbers :"))
+    numbers = int(input("Enter the  first 10 numbers :"))
     sum_num = sum_num + number
 
 

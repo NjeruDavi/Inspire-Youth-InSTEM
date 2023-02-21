@@ -5,5 +5,14 @@
 #pop out your favourite musicians
 #count the number of remaining
 favourite_musicians = []
-for musician in favourite_musicians:
-    favourite_musicians = input("Enter 5 musicians you like:")
+for musician in range (5):
+    y = input("Enter the name of musicians :")
+    favourite_musicians.append(y)
+print(favourite_musicians) 
+celebs = favourite_musicians.copy()
+print(celebs)
+celebs.sort()
+print(celebs)
+celebs.pop(3)
+print(celebs)
+print(len(celebs))
