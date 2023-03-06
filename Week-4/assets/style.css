@@ -1,0 +1,21 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: blueviolet;
+    font-weight: bold;
+    font-size: 12px;
+}
+button{
+    color: rgba(17, 15, 15, 0.808);
+    margin: 25px;
+    align-self: center;
+    background-color: rgb(108, 36, 224);
+    border-radius: 15px;
+
+}
+#msg_button{
+    color: rgb(36, 224, 114);
+    margin: 25px;
+    align-self: center;
+    background-color: rgb(19, 16, 16);
+    border-radius:10px;
+}
